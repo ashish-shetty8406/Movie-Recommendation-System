@@ -1,1 +1,2 @@
-# Movie-Recommendation-System
+Movie Recommender System (TMDB Dataset)
+This project is a Content-Based Movie Recommender System built using the TMDB (The Movie Database) dataset. It leverages cosine similarity to recommend movies based on their content features such as genre, keywords, cast, and crew.
